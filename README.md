@@ -22,3 +22,11 @@ This repo contains all information and resources to set up and operate a COMP151
     - hit the settings wheel in the sources panel
     - update the URL field to the url you created previously
 
+# Primer on OBS Profiles and Scene Collections
+OBS Profiles are names connected to groups of settings (i.e. resolution, framerate, etc.).
+They are generally used to manage different functions, i.e. streaming/recording/4K streaming
+
+OBS Scene Collections are the combinations of scenes and sources that make up the different views in OBS
+
+This repository contains a COMP1511 Profile and Scene Collection that can be used to stream lectures
+
